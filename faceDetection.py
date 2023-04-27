@@ -8,7 +8,7 @@ class MPFaceDetection:
     def __init__(
         self,
         model_selection: bool = 1,
-        confidence: float = 0.01,
+        confidence: float = 0.5,
         mp_drawing_utils: bool = True,
         color: typing.Tuple[int, int, int] = (255, 255, 255),
         thickness: int = 2,
