@@ -1,5 +1,5 @@
 # facenet
 
-Run the main.py file
-faceDetection.py - for mediapipe
+Run the main.py file <br>
+faceDetection.py - for mediapipe <br>
 faceDetection1.py - for mtcnn
